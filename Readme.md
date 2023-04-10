@@ -1,6 +1,6 @@
 # CS61BL Summer 2023 Hiring - OH Simulation 
 
-This repo contains code that will be used for round 1 of CS61BL Summer 2023 interviews. You can find the lab spec on the old course [website](https://github.com/laksith19/hiring-su23-skeleton)
+This repo contains code that will be used for round 1 of CS61BL Summer 2023 interviews. You can find the lab spec on the old course [website](https://cs61bl.org/su22/labs/lab20/).
 
 ## Setup Intructions
 
